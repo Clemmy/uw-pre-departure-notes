@@ -1,0 +1,16 @@
+#Module 10: Financial Information
+- **Budget Plan**: Includes possible expenditures ( travel, living, souvenirs, social etc.)
+  - Take into account the need for emergency funds
+  - [Relevant Workshop](https://uwaterloo.ca/career-action/appointments-workshops)
+- Change Currency
+- Avoid carrying large sums of cash
+- Use traveler's cheques sparingly
+- Check country entrance/exit fees (not included in airline ticket cost)
+- **Global ATM Alliance**: Joint venture of several major banks allowing customers to use their card at any of the alliance banks.
+  - Find bank closer to employment and do research so employers can direct deposit into the bank account
+  - Ask employer which bank they use
+- Bursaries, Awards, Ontario Student Assistance Program (OSAP)
+- **Proof of Funds**: Need to show $3000CAD to Custom Officials when entering USA so you can provide for yourself before first paycheck.
+  - Online bank statement from personal account at most 2 weeks before travel date
+  - Credit card statement displaying credit available
+  - support letter

@@ -1,0 +1,14 @@
+#Module 12: Risk & Safety
+- Check **advisory level** of where you're working with the Department of Foreign Affairs, Trade, and Development Canada (DFATD).
+- **Classification of RIsk**:
+  - Natural Hazards: Extreme temp., earthquake etc.
+  - Environmental: pollution, biohazards etc.
+  - Health: Disease
+  - Occupational Health & Safety: Inadequate safety measures & training
+  - Technological: Explosion, firearms, equipment etc.
+  - Security: Vandalism, theft, terrorism etc.
+  - Human/Political: Riots, assault etc.
+  - Legal: Laws, licenses, permits etc.
+  - Social/Cultural: Social stress/inequality
+- **Risk Action Plan**: Breakdown of risks that apply to you
+  - Table includes columns: Risk, action(s), Resources, Responsibilities, Timing, Reporting and Monitoring the action place outcome

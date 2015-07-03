@@ -1,0 +1,12 @@
+#Module 13: Emergency Protocol
+- UW Campus Police (24h)
+  - 1-519-888-4911 uwpolice@uwaterloo.ca [Site](https://uwaterloo.ca/police/)
+- 911 or local police authorities
+- Local hospital
+- [Consulate office](http://travel.gc.ca/assistance/embassies-consulates)
+- Visa sponsor
+- **Recommended**: [Emergency Card](https://learn.uwaterloo.ca/content/enforced/207787-PreDepartureTrainingCoop_cel_1159/media/documents/11-emergency-protocol/rm-card-jan-2014.pdf?_&d2lSessionVal=U2IeiL9tuqoWpCMyEXTHJjxnP&ou=207787)
+- Regarding natural disasters:
+  - CECA will contact you to confirm you're safe
+  - Contact Student Advisor
+  - Follow #Uwaterloo on Twitter
